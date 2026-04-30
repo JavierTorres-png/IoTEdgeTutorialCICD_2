@@ -54,5 +54,5 @@ stages:
         deploymentid: '$(System.TeamProject)-devops-deployment'
         priority: '0'
         deviceOption: 'Single Device'
-        deviceId: 'CCIoT2026IdentityJavier'
+        deviceId: 'edgedeviceidentityjtr3'
       displayName: 'Deploy to IoT Edge devices'
